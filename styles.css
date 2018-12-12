@@ -1,0 +1,26 @@
+body {
+    background-image:url("https://us.123rf.com/450wm/stockbg/stockbg1801/stockbg180100038/94451454-gold-light-awards-background.jpg?ver=6"); 
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1 {
+    color:white;
+}
+h3 {
+    color:purple;
+}
+ul {
+    color:purple;
+}
+.gam {
+    color:red;
+}
+.mus {
+    color:green;
+}
+.mov {
+    color:blue;
+}
+.ele {
+    color:orange;
+}
